@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+在校中职生，专业网络技术，主攻数据恢复、服务器运维
 <!--
 **DaZiDian/DaZiDian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
