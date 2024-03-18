@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 联系方式:
-QQ：2489043224 | 大大大字典 aka Gen1
-WeChat：ZiDianSun2007 | 大大大字典
-Discord：dazidian | DaZiDian
-Minecraft：DZ1D
-Youtube：https://www.youtube.com/channel/UCTLECmatBhW3K9lD1PGP76g
-Steam：https://steamcommunity.com/profiles/76561199084274218
+- QQ：2489043224 | 大大大字典 aka Gen1
+- WeChat：ZiDianSun2007 | 大大大字典
+- Discord：dazidian | DaZiDian
+- Minecraft：DZ1D
+- Youtube：https://www.youtube.com/channel/UCTLECmatBhW3K9lD1PGP76g
+- Steam：https://steamcommunity.com/profiles/76561199084274218
 
 ![DaZiDian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZiDian&count_private=true)
