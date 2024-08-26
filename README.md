@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - Twitch：https://www.twitch.tv/dazidian
 - X：https://x.com/dazidian
 
-![DaZiDian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZiDian&count_private=true)
+![DaZiDian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZiDian&count_private=true&theme=tokyonight&language=zh_CN)
