@@ -1,5 +1,6 @@
 ### 您好！ 👋
-在校中职生，专业网络技术，主攻数据恢复、服务器运维 | I am a vocational student in school, majoring in network technology, focusing on data recovery and server operation and maintenance.
+专业网络技术，主攻数据恢复、服务器运维、大数据、人工智能方向
+I'm majoring in network technology, focusing on data recovery ,server O&M ,big data and AI.
 <!--
 **DaZiDian/DaZiDian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 联系方式:
-- QQ：2489043224 | 大大大字典 aka Gen1
-- WeChat：ZiDianSun2007 | 大大大字典
-- Discord：dazidian | DaZiDian
-- Minecraft：DZ1D
-- Youtube：https://www.youtube.com/channel/UCTLECmatBhW3K9lD1PGP76g
-- Steam：https://steamcommunity.com/profiles/76561199084274218
-- Twitch：https://www.twitch.tv/dazidian
-- X：https://x.com/dazidian
+- 🖥️ QQ：2489043224
+- 📱 WeChat：ZiDianSun2007
+- 💬 Discord：dazidian
+- 🎮 Minecraft：DZ1D
+- 🎥 YouTube：[Link](https://www.youtube.com/channel/UCTLECmatBhW3K9lD1PGP76g)
+- 🎮 Steam：[Link](https://steamcommunity.com/profiles/76561199084274218)
+- 🎥 Twitch：[Link](https://www.twitch.tv/dazidian)
+- 🐦 X（Twitter）：[Link](https://x.com/dazidian)
 
 ![DaZiDian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZiDian&count_private=true&theme=tokyonight&language=zh_CN)
