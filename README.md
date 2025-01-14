@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[你的GIF链接或路径](https://github.com/DaZiDian/DaZiDian/blob/main/me.gif)" style="width: auto; height: auto;">
+  <img src="https://github.com/DaZiDian/DaZiDian/blob/main/me.gif" style="width: auto; height: auto;">
 </div>
 
 ### 您好！ 👋
