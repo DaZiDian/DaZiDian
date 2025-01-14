@@ -1,6 +1,7 @@
 <div align="center">
   <img src="[你的GIF链接或路径](https://github.com/DaZiDian/DaZiDian/blob/main/me.gif)" style="width: auto; height: auto;">
 </div>
+
 ### 您好！ 👋
 专业网络技术，主攻数据恢复、服务器运维、大数据、人工智能方向
 I'm majoring in network technology, focusing on data recovery ,server O&M ,big data and AI.
