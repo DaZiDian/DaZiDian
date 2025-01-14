@@ -28,4 +28,42 @@ Here are some ideas to get you started:
 - 🎥 Twitch：[Link](https://www.twitch.tv/dazidian)
 - 🐦 X（Twitter）：[Link](https://x.com/dazidian)
 
+
+<p align="center">
+  <p>操作系统 | OS</p>
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/windows.png" alt="Windows" height="32">
+  </span>
+  <span>
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/linux.png" alt="Linux" height="32">
+  </span>
+</p>
+
+<p align="center">
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/java.png" alt="Java" height="32">
+  </span>
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/javascript.png" alt="JavaScript" height="32">
+  </span>
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/csharp.png" alt="C#" height="32">
+  </span>
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/cpp.png" alt="C++" height="32">
+  </span>
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/vue.png" alt="Vue" height="32">
+  </span>
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/python.png" alt="Python" height="32">
+  </span>
+  <span style="margin-right:10px;">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/typescript.png" alt="TypeScript" height="32">
+  </span>
+  <span>
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/arkts.png" alt="HUAWEI ArkTS" height="32">
+  </span>
+</p>
+
 ![DaZiDian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZiDian&count_private=true&theme=tokyonight&language=zh_CN)
