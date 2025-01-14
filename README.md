@@ -32,37 +32,38 @@ Here are some ideas to get you started:
 <p align="center">
   <p>操作系统 | OS</p>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/windows.png" alt="Windows" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/windows.png" alt="Windows" height="32">
   </span>
   <span>
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/linux.png" alt="Linux" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/linux.png" alt="Linux" height="32">
   </span>
 </p>
 
 <p align="center">
+  <p>常用开发语言 | Common programming languages</p>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/java.png" alt="Java" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/java.png" alt="Java" height="32">
   </span>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/javascript.png" alt="JavaScript" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/javascript.png" alt="JavaScript" height="32">
   </span>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/csharp.png" alt="C#" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/csharp.png" alt="C#" height="32">
   </span>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/cpp.png" alt="C++" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/cpp.png" alt="C++" height="32">
   </span>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/vue.png" alt="Vue" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/vue.png" alt="Vue" height="32">
   </span>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/python.png" alt="Python" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/python.png" alt="Python" height="32">
   </span>
   <span style="margin-right:10px;">
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/typescript.png" alt="TypeScript" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/typescript.png" alt="TypeScript" height="32">
   </span>
   <span>
-    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/logos/arkts.png" alt="HUAWEI ArkTS" height="32">
+    <img src="https://github.com/DaZiDian/DaZiDian/blob/main/arkts.png" alt="HUAWEI ArkTS" height="32">
   </span>
 </p>
 
