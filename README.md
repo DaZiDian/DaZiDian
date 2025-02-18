@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🖥️ QQ：2489043224
 - 📱 WeChat：ZiDianSun2007
 - 💬 Discord：dazidian
-- 🎮 Minecraft：DZ1D
+- 🎮 Minecraft：DZID
 - 🎥 YouTube：[Link](https://www.youtube.com/channel/UCTLECmatBhW3K9lD1PGP76g)
 - 🎮 Steam：[Link](https://steamcommunity.com/profiles/76561199084274218)
 - 🎥 Twitch：[Link](https://www.twitch.tv/dazidian)
