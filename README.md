@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/DaZiDian/DaZiDian/blob/main/me.gif" style="width: auto; height: auto;">
+  <!-- 修正图片链接格式 -->
+  <img src="https://raw.githubusercontent.com/DaZiDian/DaZiDian/main/me.gif" style="width: auto; height: auto;">
 </div>
 
 ### 您好！ 👋
