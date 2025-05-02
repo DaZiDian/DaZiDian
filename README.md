@@ -8,7 +8,7 @@
 I'm majoring in network technology, focusing on data recovery, server O&M, big data and AI.
 
 📫 联系方式 | Social Links:
-- 🖥️ QQ：[![QQ](https://img.shields.io/badge/2489043224-%23B92B27.svg?logo=QQ&logoColor=white)]
+- 🖥️ QQ：[![QQ](https://img.shields.io/badge/2489043224-%23B92B27.svg?logo=QQ&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=2489043224&site=qq&menu=yes)
 - 📱 WeChat：[![WeChat](https://img.shields.io/badge/ZiDianSun2007-%88CC00.svg?logo=WeChat&logoColor=white)]
 - 💬 Discord：[![Discord](https://img.shields.io/badge/daz1d1an-%235865F2.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/daz1d1an)
 - 🎮 Minecraft：[![DZID](https://img.shields.io/badge/DZID-%2300FF00.svg)]
