@@ -7,16 +7,16 @@
 专业网络技术，主攻数据恢复、服务器运维、大数据、人工智能方向  
 I'm majoring in network technology, focusing on data recovery, server O&M, big data and AI.
 
-📫 联系方式:
-- 🖥️ QQ：2489043224
-- 📱 WeChat：ZiDianSun2007
-- 💬 Discord：dazidian
+📫 联系方式 | Social Links:
+- 🖥️ QQ：[![QQ](https://img.shields.io/badge/2489043224-%23B92B27.svg?logo=QQ&logoColor=white)]
+- 📱 WeChat：[![WeChat](https://img.shields.io/badge/ZiDianSun2007-%88CC00.svg?logo=WeChat&logoColor=white)]
+- 💬 Discord：[![Discord](https://img.shields.io/badge/daz1d1an-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@daz1d1an)
 - 🎮 Minecraft：DZID
-- ✈️ Telegram：[![Telegram](https://img.shields.io/badge/Telegram-%0088CC00.svg?logo=Telegram%logoColor=white)](@daz1d1an)
-- 🎥 YouTube：[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/@dazidian)
-- 🎮 Steam：[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/DaZiDian)
-- 🎥 Twitch：[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/dazidian)
-- 🐦 X（Twitter）：[![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/dazidian)
+- ✈️ Telegram：[![Telegram](https://img.shields.io/badge/@daz1d1an-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/daz1d1an)
+- 🎥 YouTube：[![YouTube](https://img.shields.io/badge/@dazidian-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/@dazidian)
+- 🎮 Steam：[![Steam](https://img.shields.io/badge/DaZiDian-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/DaZiDian)
+- 🎥 Twitch：[![Twitch](https://img.shields.io/badge/dazidian-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/dazidian)
+- 🐦 X（Twitter）：[![Twitter](https://img.shields.io/badge/dazidian-%23000000.svg?logo=x&logoColor=white)](https://x.com/dazidian)
 
 <div align="center">
 
