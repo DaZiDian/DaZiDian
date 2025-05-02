@@ -12,7 +12,7 @@ I'm majoring in network technology, focusing on data recovery, server O&M, big d
 - 📱 WeChat：ZiDianSun2007
 - 💬 Discord：dazidian
 - 🎮 Minecraft：DZID
-- ✈️ Telegram：[![Telegram](htttps://img.shields.io/badge/Telegram-%0088CC00.svg?logo=Telegram%logoColor=white)](@daz1d1an)
+- ✈️ Telegram：[![Telegram](https://img.shields.io/badge/Telegram-%0088CC00.svg?logo=Telegram%logoColor=white)](@daz1d1an)
 - 🎥 YouTube：[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/@dazidian)
 - 🎮 Steam：[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/DaZiDian)
 - 🎥 Twitch：[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/dazidian)
