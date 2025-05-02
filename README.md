@@ -21,7 +21,7 @@ I'm majoring in network technology, focusing on data recovery, server O&M, big d
 <div align="center">
 
 ### 操作系统 | OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### 常用开发语言 | Common Programming Languages
