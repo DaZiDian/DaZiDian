@@ -36,6 +36,5 @@ I'm majoring in network technology, focusing on data recovery, server O&M, big d
 
 </div>
 
-<div align="center">
 ![DaZiDian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZiDian&count_private=true&locale=cn&theme=tokyonight)
-</div>
+
