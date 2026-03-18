@@ -27,7 +27,7 @@ I'm majoring in network technology, focusing on data recovery, server O&M, big d
 ### 常用开发语言 | Common Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00b0d6?logo=go&logoColor=white)
