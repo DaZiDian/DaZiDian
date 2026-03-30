@@ -4,8 +4,8 @@
 </div>
 
 ### 您好 Hello！ 👋
-专业网络技术，主攻数据恢复、服务器运维、大数据、人工智能方向  
-I'm majoring in network technology, focusing on data recovery, server O&M, big data and AI.
+SDCIT在校生，专业网络技术，主攻数据恢复、服务器运维、大数据、人工智能方向  
+I'm a student from SDCIT, majoring in network technology, focusing on data recovery, server O&M, big data and AI.
 
 📫 联系方式 | Social Links:
 - 🖥️ QQ：[![QQ](https://img.shields.io/badge/2489043224-%23B92B27.svg?logo=QQ&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=2489043224&site=qq&menu=yes)
