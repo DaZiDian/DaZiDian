@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/DaZiDian/DaZiDian/main/me.gif" style="width: auto; height: auto;">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%98%A5%E9%A2%A8%E8%8B%A5%E6%9C%89%E6%86%90%E8%8A%B1%E6%84%8F%EF%BC%8C%E5%8F%AF%E5%90%A6%E8%A8%B1%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4%EF%BC%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&width=435&height=100&lines=%E6%98%A5%E9%A2%A8%E8%8B%A5%E6%9C%89%E6%86%90%E8%8A%B1%E6%84%8F%EF%BC%8C%E5%8F%AF%E5%90%A6%E8%A8%B1%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4%EF%BC%9F;A+Minecraft+Server+Developer;A+FPS+%26+Sandbox+Games+Lover;A+cybersecurity+engineer;A+student+from+SDCIT)](https://git.io/typing-svg)
 
 ### 您好 Hello！ 👋
 SDCIT在校生，专业网络技术，主攻数据恢复、服务器运维、大数据、人工智能方向  
@@ -41,4 +41,5 @@ I'm a student from SDCIT, majoring in network technology, focusing on data recov
 </div>
 
 ![DaZiDian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZiDian&count_private=true&locale=cn&theme=tokyonight)
-
+![DaZiDian's Github streak](https://streak-stats.demolab.com?user=SmallCoral&theme=tokyonight&hide_border=true&background=00000000)
+![DaZiDian's Github trophies](https://github-profile-trophy.vercel.app/?username=DaZiDian&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
