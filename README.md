@@ -7,21 +7,16 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=760&lines=%E6%98%A5%E9%A2%A8%E8%8B%A5%E6%9C%89%E6%86%90%E8%8A%B1%E6%84%8F%EF%BC%8C%E5%8F%AF%E5%90%A6%E8%A8%B1%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4%EF%BC%9F;SDCIT+Student+%7C+Cybersecurity+%26+Network+Tech;Microsoft+Student+Ambassador;Minecraft+Server+Dev+%26+Technical+Survival;Building+DSReplay+%26+AR+Assistive+Software" alt="Typing SVG">
   </a>
-
-  <br/>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Student-Shandong Vocational College of Information Technology-1e40af?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Profile">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Microsoft-Student_Ambassador-00a4ef?style=for-the-badge&logo=microsoft&logoColor=white" alt="MSA">
-  </a>
-  <a href="#-core-stack">
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Dev-8b5cf6?style=for-the-badge&logo=security&logoColor=white" alt="Focus">
-  </a>
-
 </div>
-
+<a href="#">
+    <img src="https://img.shields.io/badge/Student-Shandong Vocational College of Information Technology-1e40af?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Profile">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Microsoft-Student_Ambassador-00a4ef?style=for-the-badge&logo=microsoft&logoColor=white" alt="MSA">
+</a>
+<a href="#-core-stack">
+    <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Dev-8b5cf6?style=for-the-badge&logo=security&logoColor=white" alt="Focus">
+</a>
 ---
 
 ## ⚡ 关于我 | About Me
