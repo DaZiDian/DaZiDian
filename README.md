@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><code>whoami</code></h3>
+      <h3>Who Am I?</h3>
       <ul>
         <li>🏫 Currently studying at <b>SDCIT</b>, majoring in Network Security Technology.<br><i>SDCIT在校生，主修网络安全技术。</i></li>
         <li>🛡️ Focused on cybersecurity, penetration testing, firewall, data recovery, and server O&M.<br><i>专注于网络安全、渗透测试、防火墙、数据恢复及服务器运维。</i></li>
@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><code>current signal</code></h3>
+      <h3>Current Signal</h3>
       <pre><code>Role        Cybersec Engineer / Server Dev
 Focus       Web Sec / Big Data / AI
 Languages   Java / JS / C++ / Rust / Python
